@@ -2,7 +2,7 @@
 
 Welcome to **InterviewBooster AI**, an AI-powered web platform designed to help students, freshers, and professionals ace technical interviews with confidence. The platform provides a personalized, hands-on experience through practice questions, mock interviews, resume building, and more.
 
-🔗 **Live Demo**: [[Click here to explore the platform](https://merry-rugelach-0642ae.netlify.app/)](#) 
+🔗 **Live Demo**: [[Click here to explore the  InterviewBooster AI](https://merry-rugelach-0642ae.netlify.app/)] 
 
 ---
 
